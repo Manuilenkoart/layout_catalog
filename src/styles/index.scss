@@ -1,7 +1,9 @@
+@import './reset';
 @import './header';
+@import './catalog';
+@import './stars';
 @import './card';
 
 body {
   font-family: Roboto, sans-serif;
-  margin: 0;
 }
